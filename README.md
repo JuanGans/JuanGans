@@ -50,7 +50,10 @@ I'm a passionate developer currently pursuing my education at **Politeknik Neger
 
 ---
 
-
+### 💬 Ask me about
+- Web development
+- Cyber security basics
+- Anything about frontend frameworks
 
 ---
 
