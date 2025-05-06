@@ -1,28 +1,59 @@
+# Hi there 👋
 
-
-## Hi there 👋
-<p align="center">
+<div align="center">
   <img src="https://i.pinimg.com/originals/0b/79/6a/0b796a2198f36cdb21c4357592a10ecf.gif" width="200" style="border-radius: 10%" alt="Profile Picture">
-</p>
-<!--
-**YourUsername/YourUsername** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+  
+  [![GitHub followers](https://img.shields.io/github/followers/YourUsername?label=Follow&style=social)](https://github.com/YourUsername)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/soon)
+  [![Instagram](https://img.shields.io/badge/Instagram-Follow-pink)](https://www.instagram.com/jfant__)
+</div>
 
-### 👨‍🎓 About Me
-- 🔭 I’m currently studying at **Politeknik Negeri Malang**
-- 🌱 I’m currently learning **Next.js** and **TypeScript**
-- ⚡ Fun fact: I like **Cyber Security**
+## 👨‍🎓 About Me
 
-### 📫 How to reach me
-- Email: juantkj01@gmail.com 
-- LinkedIn: [Soon](soon)
-- Instagram: [@jfant__](https://www.instagram.com/jfant__)
+I'm a passionate developer currently pursuing my education at **Politeknik Negeri Malang**. I love exploring new technologies and building innovative solutions.
 
-### 💬 Ask me about
-- Web development
-- Cyber security basics
-- Anything about frontend frameworks
+- 🔭 Currently studying at **Politeknik Negeri Malang**
+- 🌱 Learning **Next.js** and **TypeScript**
+- 🔒 Interested in **Cyber Security**
+- 💻 Focused on **Web Development**
+
+## 🛠️ Tech Stack
+
+<div align="center">
+  
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+</div>
+
+## 📫 Connect With Me
+
+- 📧 Email: [juantkj01@gmail.com](mailto:juantkj01@gmail.com)
+- 💼 LinkedIn: [Soon](soon)
+- 📸 Instagram: [@jfant__](https://www.instagram.com/jfant__)
+
+## 💬 Ask Me About
+
+- Web Development
+- Cyber Security Basics
+- Frontend Frameworks
+- Next.js & TypeScript
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JuanGans&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
 
 ---
 
->"Code doesn't die... it just gets buried under a pile of new bugs" – Anonymous
+
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=YourUsername&style=flat-square&color=blue" alt="Profile Views" />
+</div>
