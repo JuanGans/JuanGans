@@ -57,9 +57,6 @@ I'm a passionate developer currently pursuing my education at **Politeknik Neger
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=JuanGans&style=flat-square&color=blue" alt="Profile Views" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanGans&theme=radical" alt="GitHub Streak" />
