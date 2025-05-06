@@ -55,5 +55,17 @@ I'm a passionate developer currently pursuing my education at **Politeknik Neger
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YourUsername&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=JuanGans&style=flat-square&color=blue" alt="Profile Views" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanGans&theme=radical" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JuanGans&theme=radical&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
+<div align="center">
+  <img src="https://github-contribution-stats.vercel.app/api/?username=JuanGans" alt="Contribution Graph" />
 </div>
