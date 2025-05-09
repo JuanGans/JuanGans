@@ -1,40 +1,40 @@
 name: generate animation
 
 on:
-  # run automatically every 24 hours
+  # Menjalankan workflow secara otomatis setiap 24 jam
   schedule:
     - cron: "0 */24 * * *"  # Menjalankan setiap 24 jam sekali
   
-  # allows to manually run the job at any time
+  # Memungkinkan untuk menjalankan workflow secara manual
   workflow_dispatch:
   
-  # run on every push on the master branch
+  # Menjalankan workflow pada setiap push ke branch master (atau main)
   push:
     branches:
-    - master  # Ganti dengan "main" jika menggunakan branch main
+      - main  # Ganti dengan "main" jika menggunakan branch main
 
 jobs:
   generate:
-    permissions: 
-      contents: write  # Memberikan izin untuk menulis konten repositori
+    permissions:
+      contents: write  # Memberikan izin untuk menulis ke repositori
     runs-on: ubuntu-latest
-    timeout-minutes: 5  # Batasi waktu eksekusi menjadi 5 menit
+    timeout-minutes: 5  # Membatasi waktu eksekusi workflow menjadi 5 menit
     
     steps:
-      # generates a snake game from a github user (<github_user_name>) contributions graph
+      # Langkah pertama: menghasilkan gambar snake dari grafik kontribusi GitHub pengguna
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.repository_owner }}  # Menggunakan pemilik repositori sebagai username
+          github_user_name: ${{ github.repository_owner }}  # Menggunakan username repositori pemilik
           outputs: |
             dist/github-contribution-grid-snake.svg  # Output SVG untuk animasi kontribusi
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark  # Output SVG dengan tema gelap
-          
-      # push the content of <build_dir> to a branch
+        
+      # Langkah kedua: push file hasil generate ke branch output
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          target_branch: output  # Menggunakan branch output untuk GitHub Pages
+          target_branch: output  # Menggunakan branch "output" untuk GitHub Pages
           build_dir: dist  # Folder yang berisi file hasil generate
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Token GitHub untuk autentikasi
+          GITHUB_TOKEN: ${{ secrets.token }}  # Menggunakan token GitHub yang disimpan di GitHub Secrets
