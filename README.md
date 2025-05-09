@@ -71,7 +71,7 @@ I'm a passionate developer currently pursuing my education at **Politeknik Neger
 
 ---
 
-## 🐍 GitHub Snake Contribution Animation
+## 🐍🎮 GitHub Contribution Snake: Watch My Code Slither! 🐍🎮
 
 <div align="center">
   <picture>
