@@ -72,7 +72,6 @@ I'm a passionate developer currently pursuing my education at **Politeknik Neger
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://juangans.github.io/JuanGans/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://juangans.github.io/JuanGans/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://juangans.github.io/JuanGans/github-contribution-grid-snake.svg" />
   </picture>
 </div>
