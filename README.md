@@ -81,4 +81,3 @@ I'm a passionate developer currently pursuing my education at **Politeknik Neger
   </picture>
 </div>
 
-### Watch my contributions grow! 🎮🐍
