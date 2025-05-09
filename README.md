@@ -69,10 +69,6 @@ I'm a passionate developer currently pursuing my education at **Politeknik Neger
   <img src="https://github-contribution-stats.vercel.app/api/?username=JuanGans" alt="Contribution Graph" />
 </div>
 
----
-
-## 🐍🎮 GitHub Contribution Snake: Watch My Code Slither! 🐍🎮
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://juangans.github.io/JuanGans/github-contribution-grid-snake-dark.svg" />
@@ -80,4 +76,5 @@ I'm a passionate developer currently pursuing my education at **Politeknik Neger
     <img alt="github-snake" src="https://juangans.github.io/JuanGans/github-contribution-grid-snake.svg" />
   </picture>
 </div>
+
 
