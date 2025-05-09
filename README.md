@@ -57,7 +57,6 @@ I'm a passionate developer currently pursuing my education at **Politeknik Neger
 
 ---
 
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanGans&theme=radical" alt="GitHub Streak" />
 </div>
@@ -69,3 +68,17 @@ I'm a passionate developer currently pursuing my education at **Politeknik Neger
 <div align="center">
   <img src="https://github-contribution-stats.vercel.app/api/?username=JuanGans" alt="Contribution Graph" />
 </div>
+
+---
+
+## 🐍 GitHub Snake Contribution Animation
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://juangans.github.io/JuanGans/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://juangans.github.io/JuanGans/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://juangans.github.io/JuanGans/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+### Watch my contributions grow! 🎮🐍
