@@ -32,7 +32,7 @@ I'm a passionate developer currently pursuing my education at **Politeknik Neger
 ## 📫 Connect With Me
 
 - 📧 Email: [juantkj01@gmail.com](mailto:juantkj01@gmail.com)
-- 💼 LinkedIn: [Soon](soon)
+- 💼 LinkedIn: [Juan Felix Antonio Nathan Tote](https://www.linkedin.com/in/juan-felix-antonio-nathan-tote-433413373/)
 - 📸 Instagram: [@jfant__](https://www.instagram.com/jfant__)
 
 ## 💬 Ask Me About
