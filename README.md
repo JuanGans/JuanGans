@@ -4,7 +4,7 @@
   <img src="https://i.pinimg.com/originals/0b/79/6a/0b796a2198f36cdb21c4357592a10ecf.gif" width="200" style="border-radius: 10%" alt="Profile Picture">
   
   [![GitHub followers](https://img.shields.io/github/followers/JuanGans?label=Follow&style=social)](https://github.com/JuanGans)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/soon)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://linkedin.com/in/soon](https://www.linkedin.com/in/juan-felix-antonio-nathan-tote-433413373/))
   [![Instagram](https://img.shields.io/badge/Instagram-Follow-pink)](https://www.instagram.com/jfant__)
 </div>
 
